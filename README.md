@@ -32,3 +32,22 @@ When first cloning the repo or adding new dependencies, run this command. This w
 ### ``` npm start ```
 To start the app for development, run this command. This will:
 - Run dotnet watch run which will build the app (if changed), watch for changes and start the web server on https://localhost:44338
+
+### Home Page
+![alt text](https://raw.githubusercontent.com/rmit-s3530196-avtar-singh/CarSales/master/CarSales/ClientApp/src/css/homepage.png)
+
+
+### Navbar Menu
+![alt text](https://raw.githubusercontent.com/rmit-s3530196-avtar-singh/CarSales/master/CarSales/ClientApp/src/css/add_car_menu.png)
+
+
+### Add Car Page
+![alt text](https://raw.githubusercontent.com/rmit-s3530196-avtar-singh/CarSales/master/CarSales/ClientApp/src/css/add_car.png)
+
+
+### Confirmation Dialog.
+![alt text](https://raw.githubusercontent.com/rmit-s3530196-avtar-singh/CarSales/master/CarSales/ClientApp/src/css/add_car_confirm.png)
+
+
+### List of Cars
+![alt text](https://raw.githubusercontent.com/rmit-s3530196-avtar-singh/CarSales/master/CarSales/ClientApp/src/css/cars_page.png)
