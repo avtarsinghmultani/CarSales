@@ -157,7 +157,7 @@ class VehicleForm extends React.PureComponent<VehicleFormProps, IState> {
                 }
                 {
                     // Success message display.
-                    this.props.success == true &&
+                    (this.props.success && this.state.submitSuccess) &&
                         <Alert color="success">
                             "Car Added Successfully."
                         </Alert>
