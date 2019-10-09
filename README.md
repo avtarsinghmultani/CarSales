@@ -20,9 +20,11 @@ This app is a template application using ASP.NET Core 3.0 for a REST/JSON API se
 ### Build and run your code in Visual Studio
 1. To build your project, choose Build Solution from the Build menu. The Output window shows the results of the build process.
 2. To run the code, on the menu bar, choose Debug, Start without debugging.
-3. Open browser and navigate to https://localhost:44338.
+3. The application will create databases and seed them at start.
+4. Open browser and navigate to https://localhost:44338.
+5. Click on 'Cars' on the NavBar to see the cars from the database.
 
-This template was developed and tested on Windows 
+This template was developed and tested on Windows using Visual Studio 2019.
 
 ## Scripts
 ### ``` npm install ```
